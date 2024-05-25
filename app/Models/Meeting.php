@@ -12,7 +12,7 @@ class Meeting extends Model
         'name',
         'email',
         'phone',
-        'date'
+        'appointment_date'
     ];
 }
 
